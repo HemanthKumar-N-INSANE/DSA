@@ -1,2 +1,2 @@
-# DSA
-My Code
+# DSA-C++
+My Code MY Rules
